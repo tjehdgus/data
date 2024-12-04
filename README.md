@@ -9,9 +9,9 @@ Python, SQL, R, Tableau 등 다양한 도구를 활용해 데이터를 분석하
 ## 📂 프로젝트 목록
 
 1. **💧 수자원 공모전 프로젝트**  
-   [![수자원 공모전](https://github.com/user-attachments/assets/5c8019cd-9123-4311-9e8e-dfdef3f4e7e9)](https://github.com/username/project1)  
+   [![수자원 공모전](https://raw.githubusercontent.com/tjehdgus/data/main/assets/project1.png)](https://github.com/username/project1)  
    - **설명**: 머신러닝 모델을 활용해 가뭄을 예측하는 프로젝트입니다. 데이터를 수집, 전처리, 모델링한 후 성능을 평가하여, 장려상을 수상했습니다.
-   - **사용 기술**: R, randomForest, caret, ggplot2, shiny  
+   - **사용 기술**: R, randomForest, caret, ggplot2, shiny
 
 2. **🚲 세종시 공모전 프로젝트**  
    [![세종시 공모전](https://github.com/user-attachments/assets/551f6f8f-6f14-4538-9dfc-881586793cde)](https://github.com/username/project2)  
