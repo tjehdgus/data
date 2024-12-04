@@ -9,27 +9,37 @@ Python, SQL, R, Tableau 등 다양한 도구를 활용해 데이터를 분석하
 ## 📂 프로젝트 목록
 
 1. **💧 수자원 공모전 프로젝트**  
-   [![수자원 공모전](https://raw.githubusercontent.com/tjehdgus/data/main/assets/project1.png)](https://github.com/username/project1)  
+   <a href="https://github.com/username/project1">
+     <img src="https://github.com/user-attachments/assets/5c8019cd-9123-4311-9e8e-dfdef3f4e7e9" alt="수자원 공모전" width="200">
+   </a>  
    - **설명**: 머신러닝 모델을 활용해 가뭄을 예측하는 프로젝트입니다. 데이터를 수집, 전처리, 모델링한 후 성능을 평가하여, 장려상을 수상했습니다.
-   - **사용 기술**: R, randomForest, caret, ggplot2, shiny  
+   - **사용 기술**: R, randomForest, caret, ggplot2, shiny
 
 2. **🚲 세종시 공모전 프로젝트**  
-   [![세종시 공모전](https://raw.githubusercontent.com/tjehdgus/data/main/assets/project2.png)](https://github.com/username/project2)  
+   <a href="https://github.com/username/project2">
+     <img src="https://github.com/user-attachments/assets/551f6f8f-6f14-4538-9dfc-881586793cde" alt="세종시 공모전" width="200">
+   </a>  
    - **설명**: 세종시의 공공전기 자전거 도입을 위한 거치대 최적입지 선정을 진행하여 본선 진출을 하였습니다.
-   - **사용 기술**: Python, geopandas, sklearn, scipy, matplotlib  
+   - **사용 기술**: Python, geopandas, sklearn, scipy, matplotlib
 
 3. **📊 케글 프로젝트**  
-   [![케글 프로젝트](https://raw.githubusercontent.com/tjehdgus/data/main/assets/project3.png)](https://github.com/username/project3)  
+   <a href="https://github.com/username/project3">
+     <img src="https://github.com/user-attachments/assets/5eecea204-59f6-4500-90ea-24e3b4d832eb" alt="케글 프로젝트" width="200">
+   </a>  
    - **설명**: Store Sales 케글 경쟁에 참여하여, 상위 약 10%의 성과를 거두었습니다.
-   - **사용 기술**: Python, NumPy, Statsmodels, Matplotlib  
+   - **사용 기술**: Python, NumPy, Statsmodels, Matplotlib
 
 4. **🚦 SQL 프로젝트**  
-   [![SQL 프로젝트](https://raw.githubusercontent.com/tjehdgus/data/main/assets/project4.png)](https://github.com/username/project4)  
+   <a href="https://github.com/username/project4">
+     <img src="https://github.com/user-attachments/assets/81979be9-7d8c-4a47-b74f-796e7dd45e24" alt="SQL 프로젝트" width="200">
+   </a>  
    - **설명**: 교통법규 위반의 패턴과 영향 분석을 진행하여 3가지의 인사이트를 얻었습니다.
-   - **사용 기술**: SQL, Python  
+   - **사용 기술**: SQL, Python
 
 5. **🏋️‍♂️ 딥러닝 프로젝트**  
-   [![딥러닝 프로젝트](https://raw.githubusercontent.com/tjehdgus/data/main/assets/project5.png)](https://github.com/username/project5)  
+   <a href="https://github.com/username/project5">
+     <img src="https://github.com/user-attachments/assets/83a2aef6-6795-4bb1-9408-355b2f232317" alt="딥러닝 프로젝트" width="200">
+   </a>  
    - **설명**: 운동 동작 데이터를 활용하여 운동에 도움을 주는 프로그램 개발하였습니다.
    - **사용 기술**: Python, Pandas, PyTorch, Tableau
 
