@@ -30,7 +30,8 @@ Python, SQL, R, Tableau 등 다양한 도구를 활용해 데이터를 분석하
 1. **💧 수자원 공모전 프로젝트**  
    <a href="https://github.com/username/project1">
      <img src="https://github.com/user-attachments/assets/5c8019cd-9123-4311-9e8e-dfdef34fe7e9" alt="수자원 공모전" width="200">
-   </a> **👉 이미지를 클릭하면 프로젝트로 이동합니다.**
+     **👉 이미지를 클릭하면 프로젝트로 이동합니다.**
+   </a> 
    - **설명**: 머신러닝 모델을 활용해 가뭄을 예측하는 프로젝트입니다. 데이터를 수집, 전처리, 모델링한 후 성능을 평가하여, 장려상을 수상했습니다.
    - **사용 기술**: R, randomForest, caret, ggplot2, shiny
 
