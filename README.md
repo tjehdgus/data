@@ -91,7 +91,11 @@ Python, SQL, R, Tableau 등 다양한 도구를 활용해 데이터를 분석하
 ## 📚 추가 학습 및 자료
 배웠던 내용을 기록하고 정리한 자료는 아래 노션 링크에서 확인할 수 있습니다:
 - **노션 학습 자료**:
-- [📑 서동현의 학습 노트](https://www.notion.so/your-notion-link)
+- [📑 SQL 학습 노트](https://www.notion.so/your-notion-link)
+- [📑 R 학습 노트](https://www.notion.so/your-notion-link)
+- [📑 Python 학습 노트](https://www.notion.so/your-notion-link)
+- [📑 Deep Learning 학습 노트](https://www.notion.so/your-notion-link)
+- [📑 Tableau 학습 노트](https://www.notion.so/your-notion-link)
 
 ---
 
