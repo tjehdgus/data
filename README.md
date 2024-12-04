@@ -65,7 +65,6 @@ Python, SQL, R, Tableau 등 다양한 도구를 활용해 데이터를 분석하
      <img src="https://github.com/user-attachments/assets/83a2aef6-6795-4bb1-9408-355b2f232317" alt="딥러닝 프로젝트" width="200">
      **👉 이미지를 클릭하면 프로젝트로 이동합니다.**
    </a>
-**👉 이미지를 클릭하면 프로젝트로 이동합니다.**
    - **설명**: 운동 동작 데이터를 활용하여 운동에 도움을 주는 프로그램 개발하였습니다.
    - **사용 기술**: Python, Pandas, PyTorch, Tableau
 
