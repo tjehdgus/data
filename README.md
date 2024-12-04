@@ -24,7 +24,7 @@ Python, SQL, R, Tableau 등 다양한 도구를 활용해 데이터를 분석하
 
 3. **📊 케글 프로젝트**  
    <a href="https://github.com/username/project3">
-     <img src="https://github.com/user-attachments/assets/81979be9-7d8c-4a47-b74f-796e7dd45e24" alt="케글 프로젝트" width="200">
+     <img src="https://github.com/user-attachments/assets/5ecea204-59f6-4500-90ea-24e3b4d83e2b" alt="케글 프로젝트" width="200">
    </a>  
    - **설명**: Store Sales 케글 경쟁에 참여하여, 상위 약 10%의 성과를 거두었습니다.
    - **사용 기술**: Python, NumPy, Statsmodels, Matplotlib
