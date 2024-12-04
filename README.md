@@ -46,22 +46,24 @@ Python, SQL, R, Tableau 등 다양한 도구를 활용해 데이터를 분석하
 3. **📊 케글 프로젝트**  
    <a href="https://github.com/username/project3">
      <img src="https://github.com/user-attachments/assets/5ecea204-59f6-4500-90ea-24e3b4d83e2b" alt="케글 프로젝트" width="200">
+     **👉 이미지를 클릭하면 프로젝트로 이동합니다.**
    </a>
-**👉 이미지를 클릭하면 프로젝트로 이동합니다.**
+
    - **설명**: Store Sales 케글 경쟁에 참여하여, 상위 약 10%의 성과를 거두었습니다.
    - **사용 기술**: Python, NumPy, Statsmodels, Matplotlib
 
 4. **🚦 SQL 프로젝트**  
    <a href="https://github.com/username/project4">
      <img src="https://github.com/user-attachments/assets/81979be9-7d8c-4a47-b74f-796e7dd45e24" alt="SQL 프로젝트" width="200">
+     **👉 이미지를 클릭하면 프로젝트로 이동합니다.**
    </a>
-**👉 이미지를 클릭하면 프로젝트로 이동합니다.**
    - **설명**: 교통법규 위반의 패턴과 영향 분석을 진행하여 3가지의 인사이트를 얻었습니다.
    - **사용 기술**: SQL, Python
 
 5. **🏋️‍♂️ 딥러닝 프로젝트**  
    <a href="https://github.com/username/project5">
      <img src="https://github.com/user-attachments/assets/83a2aef6-6795-4bb1-9408-355b2f232317" alt="딥러닝 프로젝트" width="200">
+     **👉 이미지를 클릭하면 프로젝트로 이동합니다.**
    </a>
 **👉 이미지를 클릭하면 프로젝트로 이동합니다.**
    - **설명**: 운동 동작 데이터를 활용하여 운동에 도움을 주는 프로그램 개발하였습니다.
