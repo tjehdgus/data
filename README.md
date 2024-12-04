@@ -84,6 +84,18 @@ Python, SQL, R, Tableau 등 다양한 도구를 활용해 데이터를 분석하
 ### **Database Management**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
+---
+
+## 📜 자격증
+
+- **SQLD (SQL 개발자)**  
+  - 합격일: 2024년 09월 20일  
+  ![SQLD Badge](https://img.shields.io/badge/SQLD-Passed-2D9CDB?style=for-the-badge&logo=oracle&logoColor=white)
+
+- **빅데이터 분석기사 필기**  
+  - 합격일: 2023년 10월 13일  
+  ![BigData Badge](https://img.shields.io/badge/Big%20Data%20Analysis-Written%20Passed-4CAF50?style=for-the-badge&logo=python&logoColor=white)
+
 
 ---
 ## 📚 추가 학습 및 자료
