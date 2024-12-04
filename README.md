@@ -88,6 +88,12 @@ Python, SQL, R, Tableau 등 다양한 도구를 활용해 데이터를 분석하
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
+## 📚 추가 학습 및 자료
+배웠던 내용을 기록하고 정리한 자료는 아래 노션 링크에서 확인할 수 있습니다:
+- **노션 학습 자료**:
+- [📑 서동현의 학습 노트](https://www.notion.so/your-notion-link)
+
+---
 
 ## 📫 연락처
 - **이메일**: tjehdgus113@gmail.com  
