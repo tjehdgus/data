@@ -10,34 +10,30 @@ Python, SQL, R, Tableau 등 다양한 도구를 활용해 데이터를 분석하
 
 1. **🏋️‍♂️ 딥러닝 프로젝트**  
    <a href="https://github.com/username/project1">
-     <img src="https://raw.githubusercontent.com/username/repository/branch/assets/project1.png" alt="딥러닝 프로젝트" width="300">
+     <img src="https://raw.githubusercontent.com/tjehdgus/data/main/assets/딥러닝_프로젝트.png" alt="딥러닝 프로젝트" width="300">
    </a>  
 
 2. **🚦 SQL 프로젝트**  
    <a href="https://github.com/username/project2">
-     <img src="https://raw.githubusercontent.com/username/repository/branch/assets/project2.png" alt="SQL 프로젝트" width="300">
+     <img src="https://raw.githubusercontent.com/tjehdgus/data/main/assets/SQL_프로젝트.png" alt="SQL 프로젝트" width="300">
    </a>  
 
 3. **🚲 세종시 공모전 프로젝트**  
    <a href="https://github.com/username/project3">
-     <img src="https://raw.githubusercontent.com/username/repository/branch/assets/project3.png" alt="세종시 공모전" width="300">
+     <img src="https://raw.githubusercontent.com/tjehdgus/data/main/assets/세종시_공모전.png" alt="세종시 공모전" width="300">
    </a>  
 
 4. **📊 케글 프로젝트**  
    <a href="https://github.com/username/project4">
-     <img src="https://raw.githubusercontent.com/username/repository/branch/assets/project4.png" alt="케글 프로젝트" width="300">
+     <img src="https://raw.githubusercontent.com/tjehdgus/data/main/assets/케글_프로젝트.png" alt="케글 프로젝트" width="300">
    </a>  
 
 5. **💧 수자원 공모전 프로젝트**  
    <a href="https://github.com/username/project5">
-     <img src="https://raw.githubusercontent.com/username/repository/branch/assets/project5.png" alt="수자원 공모전" width="300">
+     <img src="https://raw.githubusercontent.com/tjehdgus/data/main/assets/수자원_공모전.png" alt="수자원 공모전" width="300">
    </a>  
 
-
-
-
 ---
-
 ## 📌 기술 스택
 - **프로그래밍 언어**: Python, R, SQL, Tableau
 - **분석 도구**: Pandas, NumPy, Sklearn, Tensorflow, PyTorch, Scipy, Matplotlib
